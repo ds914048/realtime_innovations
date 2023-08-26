@@ -84,7 +84,7 @@
 <p><strong>Deepak Singh</strong><br>
 Email: <a href="mailto:ds914048@gmail.com">ds914048@gmail.com</a></p>
 
-<p>We appreciate your interest in the Realtime Innovations Flutter App and hope you enjoy exploring its features and codebase!</p>
+<p>We appreciate your interest in the Hive Bloc Flutter App and hope you enjoy exploring its features and codebase!</p>
 
 </body>
 </html>
